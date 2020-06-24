@@ -1,2 +1,3 @@
-# deeprl_notes
-Notes based on UC Berkeley CS285 and personal exploration.
+# Notes on Deep RL
+
+Math notes: https://zhihanyang2022.github.io/deeprl_notes/

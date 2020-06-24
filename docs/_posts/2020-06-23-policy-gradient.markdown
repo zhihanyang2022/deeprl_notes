@@ -3,7 +3,10 @@ layout: post
 title:  "Notes on Policy Gradient"
 date:   2020-06-23 23:02:25 -0500
 categories: math
+
 ---
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 * Do not remove this line (it will not be displayed)
 {:toc}

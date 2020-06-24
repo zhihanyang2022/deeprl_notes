@@ -153,8 +153,10 @@ $$
 \begin{align}
 \text{Var}(X, Y) 
 = (\sigma_{X}^2 + \mu_{X}^2)(\sigma_{Y}^2 + \mu_{Y}^2) - \mu_X^2\mu_Y^2
+\end{align}
 $$
 If $$Y$$ is demeaned, we have
 $$
 \text{Var}(X, Y) = (\sigma_{X}^2 + \mu_{X}^2)(0 + \mu_{Y}^2) - \mu_X^2\mu_Y^2
 $$
+

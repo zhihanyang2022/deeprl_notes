@@ -167,3 +167,13 @@ $$
 \text{Var}(X, Y) = (\sigma_{X}^2 + \mu_{X}^2)(0 + \mu_{Y}^2) - \mu_X^2\mu_Y^2
 $$
 
+## Experimental results
+
+<img src='learning_curve.png'>
+
+<img src='trajectory_under_learned_policy.png'>
+
+
+
+
+

@@ -10,5 +10,3 @@ Note that we are dealing with finite episodes here.
 $$
 J(\theta) = \mathbb{E}_{\tau \sim \pi_\theta(\tau)} \left[ \sum_{t=1}^T r(s_t, a_t) \right]
 $$
-
-$$asd$$ hahahah

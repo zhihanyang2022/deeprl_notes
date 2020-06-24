@@ -1,5 +1,7 @@
 # Deep RL: Notes on Policy Gradient
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 Zhihan Yang @ June 19, 2020
 
 Note that we are dealing with finite episodes here.

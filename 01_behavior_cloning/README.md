@@ -17,7 +17,7 @@ Here’s an example observation (10 rows, 40 columns); its corresponding action 
 
 ![download (2)](https://i.loli.net/2020/07/07/vlOM6A7fBc2FCoQ.png)
 
-Here’s the track labelled by expert actions (the pink dots). Note that expert actions do not actually show up in observations in training data; the following figure is just for visualization. Note that the color maps
+Here’s the track labelled by expert actions (the pink dots). Expert actions do not actually show up in observations in training data; the following figure is just for visualization. 
 
 ![download (3)](https://i.loli.net/2020/07/08/9mvAUwIK1k8PDBM.png)
 

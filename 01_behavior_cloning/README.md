@@ -19,7 +19,7 @@ Here’s an example observation (10 rows, 40 columns); its corresponding action 
 
 Here’s the track labelled by expert actions (the pink dots). Note that expert actions do not actually show up in observations in training data; the following figure is just for visualization. Note that the color maps
 
-![download (3)](/Users/yangzhihan/My Files/Typora Pics/download (3).png)
+![download (3)](https://i.loli.net/2020/07/08/9mvAUwIK1k8PDBM.png)
 
 This data-set is created using `./notebooks/create_pseudo_driving_dataset_multimodal.ipynb` saved as `./data/pseudo_driving_dataset_multimodal.json`.
 
